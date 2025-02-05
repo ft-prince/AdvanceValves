@@ -1,0 +1,15 @@
+2025-02-05 12:24:55,554 - INFO - Loaded 16000 ERP codes
+2025-02-05 12:24:55,620 - INFO - Extracted 281 items from pdf_folder\00240030 SO.pdf
+2025-02-05 12:24:55,879 - INFO - Extracted 39 items from pdf_folder\1-CF0000-28-DSS-0044-00_00.pdf
+2025-02-05 12:24:55,963 - INFO - Extracted 49 items from pdf_folder\PURCHASE_ORDER_NO_1487633_REV02_-_DUAL_PLATE_CHECK VALVES_18.10.2024_Signed.pdf
+2025-02-05 12:24:55,963 - ERROR - Error in processing: 'ValveProcessor' object has no attribute 'analyze_and_report'
+2025-02-05 12:26:12,306 - INFO - Loaded 16000 ERP codes
+2025-02-05 12:26:12,372 - INFO - Extracted 281 items from pdf_folder\00240030 SO.pdf
+2025-02-05 12:26:12,633 - INFO - Extracted 39 items from pdf_folder\1-CF0000-28-DSS-0044-00_00.pdf
+2025-02-05 12:26:12,718 - INFO - Extracted 49 items from pdf_folder\PURCHASE_ORDER_NO_1487633_REV02_-_DUAL_PLATE_CHECK VALVES_18.10.2024_Signed.pdf
+2025-02-05 12:26:12,719 - ERROR - Error in processing: 'ValveProcessor' object has no attribute 'analyze_and_report'
+2025-02-05 12:27:30,340 - INFO - Loaded 16000 ERP codes
+2025-02-05 12:27:30,399 - INFO - Extracted 281 items from pdf_folder\00240030 SO.pdf
+2025-02-05 12:27:30,653 - INFO - Extracted 39 items from pdf_folder\1-CF0000-28-DSS-0044-00_00.pdf
+2025-02-05 12:27:30,735 - INFO - Extracted 49 items from pdf_folder\PURCHASE_ORDER_NO_1487633_REV02_-_DUAL_PLATE_CHECK VALVES_18.10.2024_Signed.pdf
+2025-02-05 12:27:30,803 - INFO - Analysis complete. Results saved to output directory.

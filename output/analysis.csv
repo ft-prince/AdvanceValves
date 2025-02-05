@@ -1,0 +1,50 @@
+po_items,so_matches,match_scores,quantity_matches,price_matches,material_matches
+CH-0007,CH-0007,100,True,True,True
+CH-0002,CH-0002,100,True,True,True
+CH-1017,CH-1017,100,True,True,True
+CH-1006 MR,CH-1006,95,True,True,True
+CH-0002,CH-0002,100,True,True,True
+CH-0002,CH-0002,100,True,True,True
+CH-0027,CH-0027,100,True,True,True
+CH-0007,CH-0007,100,True,True,True
+CH-1011 MR,CH-1011,95,True,True,True
+CH-1016 MR,CH-1016,95,True,True,True
+CH-1011 MR,CH-1011,95,True,True,True
+CH-1022 MR,No Match,0,False,False,False
+CH-1014,CH-1014,100,True,True,True
+CH-0002,CH-0002,100,True,True,True
+CH-0027,CH-0027,100,True,True,True
+CH-1010,CH-1010,100,True,True,True
+CH-0014 MR,CH-0014,95,True,True,True
+CH-0029,CH-0029,100,True,True,True
+CH-0010,CH-0010,100,True,True,True
+CH-1007 MR,CH-1007,95,True,True,True
+CH-1005 MR,CH-1005,95,True,True,True
+CH-0027,CH-0027,100,True,True,True
+CH-1005 MR,CH-1005,95,True,True,True
+CH-0002,CH-0002,100,True,True,True
+CH-1023 MR,No Match,0,False,False,False
+CH-1023 MR,No Match,0,False,False,False
+CH-0007 MR,CH-0007,95,True,True,True
+CH-0002 MR,CH-0002,95,True,True,True
+CH-1017 MR,CH-1017,95,True,True,True
+CH-1006,CH-1006,100,True,True,True
+CH-0002 MR,CH-0002,95,True,True,True
+CH-0002 MR,CH-0002,95,True,True,True
+CH-0027 MR,CH-0027,95,True,True,True
+CH-0007 MR,CH-0007,95,True,True,True
+CH-1011,CH-1011,100,True,True,True
+CH-1016,CH-1016,100,True,True,True
+CH-1011,CH-1011,100,True,True,True
+CH-1022 MR,No Match,0,False,False,False
+CH-1014 MR,CH-1014,95,True,True,True
+CH-0002 MR,CH-0002,95,True,True,True
+CH-0027 MR,CH-0027,95,True,True,True
+CH-1010 MR,CH-1010,95,True,True,True
+CH-0029 MR,CH-0029,95,True,True,True
+CH-0010 MR,CH-0010,95,True,True,True
+CH-1007,CH-1007,100,True,True,True
+CH-1005 MR,CH-1005,95,True,True,True
+CH-0027 MR,CH-0027,95,True,True,True
+CH-1005 MR,CH-1005,95,True,True,True
+CH-0002 MR,CH-0002,95,True,True,True
